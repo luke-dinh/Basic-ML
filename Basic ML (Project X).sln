@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Basic ML (Project X)", "Mây (Basic ML - Project X)\Basic ML (Project X).pyproj", "{A930CB62-5E5C-4218-9EE0-3A4C35459333}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A930CB62-5E5C-4218-9EE0-3A4C35459333}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A930CB62-5E5C-4218-9EE0-3A4C35459333}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CAAAF5B-96DA-4213-A2BC-52978CF2F00E}
+	EndGlobalSection
+EndGlobal
